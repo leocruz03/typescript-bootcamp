@@ -1,6 +1,7 @@
 {
   "scripts": {
-    "calculator": "ts-node calculator.ts"
+    "calculator": "ts-node calculator.ts",
+    "multiplier": "ts-node multiplier.ts"
   },
   "devDependencies": {
     "ts-node": "^10.9.1",
